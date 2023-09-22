@@ -1,2 +1,2 @@
 run-server:
-	poetry run python manage.py runserver
+	poetry run python -m core.manage runserver
